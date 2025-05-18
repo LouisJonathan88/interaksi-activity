@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IntenProjects</string>
+    <string name="pindah_halaman">Pindah Ke Activity Baaru</string>
+    <string name="pindah_halaman_data">Pindah Ke Activity Baaru Dengan Data</string>
+    <string name="pindah_halaman_objek">Pindah Ke Activity Baaru Dengan Objek</string>
+    <string name="title_activity_main">Project Intent Implicit dan Eksplisit</string>
+    <string name="title_activity_data">Data Diterima</string>
+    <string name="title_telepon">Kontak Langsung</string>
+    <string name="title_open_anotherapps">Buka Aplikasi lain</string>
+    <string name="second_activity">Halaman Kedua Menggunakan Intent Biasa untuk pindah halanman</string>
+    <string name="tambah_data">Tambah Data</string>
+    <string name="gender">Jenis Kelamin</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="laki_laki">Laki-laki</string>
+    <string name="save">Simpan</string>
+    <string name="result_halaman_tambah_data">Result dari halaman tambah data</string>
+</resources>
